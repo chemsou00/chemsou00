@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Chems Eddine Abdelouahab</h1>
 <h3 align="center">Full stack Flutter devoloper</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95700398/216096780-5b6fb750-079c-43a5-a01f-3fb88ea1831a.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95700398/216096780-5b6fb750-079c-43a5-a01f-3fb88ea1831a.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemsou00&label=Profile%20views&color=0e75b6&style=flat" alt="chemsou00" /> </p>
