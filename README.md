@@ -14,6 +14,9 @@
 - 🔭 I’m currently working on **My Project**
 
 - 💬 Ask me about **Flutter,dart**
+  
+- 🧐 I am currently studying Web Developing and Php Laravel
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
